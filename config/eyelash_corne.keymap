@@ -57,6 +57,12 @@
             layers = <0>;
             timeout-ms = <50>;
         };
+
+        something {
+            bindings = <&sk LC(LA(LS(LGUI)))>;
+            key-positions = <37>;
+            layers = <3>;
+        };
     };
 
     keymap {
