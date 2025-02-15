@@ -82,10 +82,10 @@ layers:
   - RGB ON
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB EFF
+  - RGB EFR
   - MUTE
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - RGB EFR
+  - RGB EFF
   - RGB SPI
   - RGB BRI
   - RGB BRD
